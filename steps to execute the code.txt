@@ -1,0 +1,8 @@
+1. Download visual studio code or any other python editors
+2. Download pyhton version 3.9.1
+3. run the command "python -m pip install -r requirements.txt" to install necessary packages for the implemenatation
+4. Three different methods for hand segementation are present
+    >  To run the fixed box method use the command "python sign_prediction_fixedbox.py"
+    >  To run the mediapipe method use the command "python sign_prediction_mediapipe.py"
+    >  To run the hsv method use the command "python sign_prediction_hsv.py"
+
